@@ -1,1 +1,1 @@
-alert("TUBITAK PENTEST",document.domain,"testleri", document.cookie);
+alert(document.domain);
